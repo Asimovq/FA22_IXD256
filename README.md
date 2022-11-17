@@ -2,5 +2,5 @@
 
 ```
 Project Documentation 
-by Oskar Qian for IxD256
+by Oskar Q
 ```
