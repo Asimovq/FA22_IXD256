@@ -11,6 +11,7 @@ Sun clock is a concept clock that utilize the sun light as the input data to exp
 
 **Schemetic Diagram**
 
+**Code**
 
 ```
 #include "M5CoreInk.h" 
