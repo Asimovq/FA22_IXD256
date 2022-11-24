@@ -1,6 +1,9 @@
 # FA22_IXD256
 
-######  Sun Clock Project Documentation by Oskar Qian
+
+*Sun Clock Project Documentation by Oskar Qian*
+
+
 ```
 #include "M5CoreInk.h" 
 
