@@ -1,9 +1,16 @@
-# Sun Clock Project Documentation
+## Sun Clock Project Documentation
 
 
 *by Oskar Qian*
 
 Sun clock is a concept clock that utilize the sun light as the input data to express specific arroma at different time of the day
+
+**Video**
+
+**Image**
+
+**Schemetic Diagram**
+
 
 ```
 #include "M5CoreInk.h" 
