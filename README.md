@@ -9,7 +9,7 @@ Sun clock is a concept clock that utilize the sun light as the input data to exp
 
 **Image**
 
-**Schemetic Diagram**
+**Schematic Diagram**
 
 **Code**
 
