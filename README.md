@@ -11,6 +11,7 @@ Sun clock is a concept clock that utilize the sun light as the input data to exp
 </p>
 
 **Image**
+![Schemetic Design](Adv_Prototyping_Project3_schem.png)
 
 **Schematic Diagram**
 
