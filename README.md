@@ -62,4 +62,3 @@ void loop() {
   }
 
 ```
-![Concept Design](thumb-1920-870886.jpg)
